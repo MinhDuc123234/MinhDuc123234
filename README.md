@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Duc</h1>
-<h3 align="center"> I'm an AI Engineer with a strong interest in machine learning, deep learning, and building real-world intelligent systems. I enjoy turning data into insights, training models that make decisions, and exploring the boundaries of human–AI collaboration.</h3>
+<h3 align="center">A passionate AI engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhduc123234&label=Profile%20views&color=0e75b6&style=flat" alt="minhduc123234" /> </p>
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/minh duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minh duc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
