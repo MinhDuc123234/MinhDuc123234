@@ -59,3 +59,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhduc123234&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc123234" alt="GitHub Streak" /></p>
+
+<!-- 🐍 Snake animation -->
+<h3 align="center">🐍 Watch my contributions snake 🐍</h3>
+<p align="center">
+  <img src="https://github.com/minhduc123234/minhduc123234/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
