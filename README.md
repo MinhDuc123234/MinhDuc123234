@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Minh Duc</h1>
+<!-- Profile Cover -->
+<p align="center">
+  <img src="cover.png" alt="Cover Image" width="100%" />
+</p>
+
 <h3 align="center">
   I'm an AI Engineer with a strong interest in machine learning, deep learning, and building real-world intelligent systems. I enjoy turning data into insights, training models that make decisions, and exploring the boundaries of human–AI collaboration.
 </h3>
@@ -7,16 +11,19 @@
   🌐 Visit my portfolio: <a href="https://minhduc123234.github.io/my-porforlio/" target="_blank">https://minhduc123234.github.io/my-porforlio/</a>
 </h4>
 
+<!-- Profile View Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=minhduc123234&label=Profile%20views&color=0e75b6&style=flat" alt="minhduc123234" />
+  <img src="https://komarev.com/ghpvc/?username=minhduc123234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!-- Trophy -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhduc123234" alt="minhduc123234" />
+    <img src="https://github-profile-trophy.vercel.app/?username=minhduc123234" alt="Trophies" />
   </a>
 </p>
 
+<!-- Social -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/minh.uc.342108" target="blank">
@@ -27,6 +34,7 @@
   </a>
 </p>
 
+<!-- Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -52,6 +60,7 @@
   </a>
 </p>
 
+<!-- Stats -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhduc123234&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
@@ -60,9 +69,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc123234" alt="GitHub Streak" /></p>
 
-<!-- 🐍 Snake animation -->
+<!-- Snake animation -->
 <h3 align="center">🐍 Watch my contributions snake 🐍</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/minhduc123234/minhduc123234/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
