@@ -16,13 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=minhduc123234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhduc123234" alt="Trophies" />
-  </a>
-</p>
-
 <!-- Social -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +37,7 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -60,14 +53,10 @@
   </a>
 </p>
 
-<!-- Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhduc123234&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc123234" alt="GitHub Streak" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhduc123234&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc123234" alt="GitHub Streak" /></p>
 
 <!-- Snake animation -->
 <h3 align="center">🐍 Watch my contributions snake 🐍</h3>
