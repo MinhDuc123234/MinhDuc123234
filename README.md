@@ -53,13 +53,4 @@
   </a>
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhduc123234" alt="GitHub Streak" />
-</p>
 
-<!-- Snake animation -->
-<h3 align="center">🐍 Watch my contributions snake 🐍</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/minhduc123234/minhduc123234/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
